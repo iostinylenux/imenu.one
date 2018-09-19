@@ -6,7 +6,7 @@ url: https://imenu.one
 date_format: "ordinal"
 title: 码志
 subtitle: "Enumivo's World"
-description: "iostinylenux's enumivo project"
+description: "Enumivo blockchain Techblog"
 keywords: enumivo, iostinylenux, imenu,
 timezone: UTC-5
 encoding: "utf-8"
@@ -16,7 +16,7 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: iostinylenux
-organization: enumivo.com
+organization: Enumivian's Blog
 organization_url: https://enumivo.com
 github_username: iostinylenux
 location: Silicon Valley, USA

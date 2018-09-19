@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: iostinylenux's enumivo project
+description: Enumivo blockchain Techblog
 keywords: iostinylenux, imenu
 comments: true
 menu: About
