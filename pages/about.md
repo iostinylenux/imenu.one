@@ -1,18 +1,17 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: iostinylenux's enumivo project
+keywords: iostinylenux, imenu
 comments: true
-menu: 关于
+menu: About
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+This is enumivo project BP Wiki Page
 
-仰慕「优雅编码的艺术」。
+BP Name:iostinylenux
 
-坚信熟能生巧，努力改变人生。
 
 ## 联系
 
